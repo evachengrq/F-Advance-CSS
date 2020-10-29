@@ -78,3 +78,28 @@ ul {
   width: 170px;
   background-color: #f1f2f3;
 }
+
+.right-floating-window {
+  width: 240px;
+  background-color: #f1f2f3;
+  text-align: center;
+  border-radius: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.text-box{
+  margin-bottom: 10px;
+}
+
+.text-box input {
+  padding: 5px 10px;
+}
+
+.right-floating-window button {
+  background-color: blue;
+  color: white;
+  padding: 10px 50px;
+  border: none;
+  border-radius: 5px;
+}
