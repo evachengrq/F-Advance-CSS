@@ -41,3 +41,21 @@ ul {
 .footer p{
   margin: 0;
 }
+
+.module {
+  width: 400px;
+  border: 1px solid gray;
+}
+
+.module img {
+  width: 400px;
+  height: 150px;
+}
+
+.article {
+  margin: 20px;
+}
+
+.view-details {
+  margin-top: 20px;
+}
