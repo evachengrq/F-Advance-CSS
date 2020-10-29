@@ -42,6 +42,12 @@ ul {
   margin: 0;
 }
 
+.main-content {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
 .module {
   width: 400px;
   border: 1px solid gray;
@@ -75,17 +81,21 @@ ul {
 }
 
 .about {
-  width: 170px;
+  width: 150px;
+  margin-right: 20px;
   background-color: #f1f2f3;
 }
 
 .right-floating-window {
   width: 240px;
+  height: 200px;
   background-color: #f1f2f3;
   text-align: center;
   border-radius: 5px;
   padding-top: 20px;
   padding-bottom: 20px;
+  position: fixed;
+  left: 80%;
 }
 
 .text-box{
