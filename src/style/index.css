@@ -73,3 +73,8 @@ ul {
   position: relative;
   bottom: 325px;
 }
+
+.about {
+  width: 170px;
+  background-color: #f1f2f3;
+}
