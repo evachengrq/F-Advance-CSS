@@ -44,7 +44,7 @@ ul {
 
 .main-content {
   display: flex;
-  margin-top: 20px;
+  margin-top: 40px;
   margin-left: 20px;
 }
 
@@ -80,10 +80,16 @@ ul {
   bottom: 325px;
 }
 
+.left-side-bar h1{
+  font-style: italic;
+}
+
 .about {
   width: 150px;
   margin-right: 20px;
+  margin-bottom: 30px;
   background-color: #f1f2f3;
+  padding: 10px;
 }
 
 .right-floating-window {
@@ -96,6 +102,7 @@ ul {
   padding-bottom: 20px;
   position: fixed;
   left: 80%;
+  top: 40%;
 }
 
 .text-box{
