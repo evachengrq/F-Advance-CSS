@@ -18,3 +18,26 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+.header {
+  padding: 15px 70px;
+  background-color: black;
+  color: white;
+}  
+
+.header ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer {
+  background-color:  #f1f2f3;
+  color: gray;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.footer p{
+  margin: 0;
+}
