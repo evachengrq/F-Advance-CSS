@@ -59,3 +59,17 @@ ul {
 .view-details {
   margin-top: 20px;
 }
+
+#module-1 {
+  position: absolute;
+}
+
+#module-2 {
+  position: relative;
+  left: 420px;
+}
+
+#module-3 {
+  position: relative;
+  bottom: 325px;
+}
